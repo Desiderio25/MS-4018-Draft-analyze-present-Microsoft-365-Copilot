@@ -66,17 +66,17 @@ Let's see this transformation in action.
 
 1. Place your cursor at the end of the document.
 
-1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the on-canvas Copilot option. Select **Generate**.
+1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the **Draft with Copilot** pencil icon. Select **Generate**.
 
 1. Select **Keep it** to add the section to your Project Plan.
 
-1. Highlight the list.
-
-1. Select the on-canvas **Copilot** icon to the left of the text.
+1. Highlight the list, then select **Edit with Copilot** in the floating toolbar that appears.
 
 1. Select or type **Visualize as a table**. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-1. Type +++Add a third column, Task Completed, to the table.+++ in the Copilot dialog.
+1. In the Copilot prompt box, enter the following prompt:
+
+    +++Add a third column, Task Completed, to the table.+++
 
 1. Select **Keep it** to insert the table into your document.
 
@@ -86,7 +86,7 @@ Let's see this transformation in action.
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
-1. Open the Copilot pane and enter the following prompt:
+1. From the **Home** tab, select **Copilot** to open the Copilot pane, then enter the following prompt:
 
     +++Summarize the Project Report Promotion Plan for Chai Tea in Latin America document. Highlight the top three points made.+++
 
