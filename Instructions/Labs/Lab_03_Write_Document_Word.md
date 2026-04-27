@@ -35,7 +35,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
     +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternatively, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
+1. Add the document reference to your prompt by manually entering a forward slash `/` to open the file search dialog, then search for and select **Promotion Plan for Chai Tea in Latin America.docx**. Alternatively, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
 
 1. Select the right arrow to submit your prompt and **Generate** the response.
 
