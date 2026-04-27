@@ -42,11 +42,11 @@ While this is a great start, you want to personalize the presentation a bit more
 
 Since our audience includes individuals with varying levels of familiarity with our company and its offerings, let's add a slide that provides a brief history of chai tea.
 
-1. Let's first change the view in PowerPoint, if necessary. Select **View -> Editing view** (**Normal**).
+1. If necessary, change the view to **Normal**. On the **View** tab, select **Normal**.
 
 1. Return to the **Home** ribbon view.
 
-1. Open the Copilot pane, select **Web** grounding icon, and enter the following prompt:
+1. In the Copilot pane, enter the following prompt:
 
      +++Can you provide a brief history of chai tea?+++
 
@@ -54,13 +54,15 @@ Since our audience includes individuals with varying levels of familiarity with 
 
      Copilot Chat is great for asking questions, summarizing or researching (web/work) information, but it does not have the capability to edit/shape our presentation.
 
-1. Let's ask Copilot to help create a slide about the history of Chai Tea. Go to the first slide, select the **Copilot** icon (top-left corner of any slide) and select **Add a slide**.
+1. Navigate to the first slide. On the **Home** tab, select the **New slide with Copilot** icon next to **New Slide**.
 
-1. In the dialog that appears, add the following context:
+1. In the copilot chat, add the following context:
 
     +++the history of chai tea.+++
 
-1. Once the slide is generated, select to **Keep it**.
+1. If prompted, Copilot displays clarifying questions about the slide content. Select your preferred option for each question, then select **Confirm** after the last.
+
+1. Review the slide Copilot generated.
 
 Now you've added depth to your presentation, and it's a great way to increase interest from your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
