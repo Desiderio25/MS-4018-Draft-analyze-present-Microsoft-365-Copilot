@@ -35,7 +35,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
     +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
+1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternatively, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
 
 1. Select the right arrow to submit your prompt and **Generate** the response.
 
@@ -43,7 +43,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
 
-1. Highlight the paragraph, select the **Copilot** icon that appears to the left of the text.
+1. Highlight the paragraph, then select **Edit with Copilot** in the floating toolbar that appears.
 
 1. Select **Auto Rewrite** from the menu. Copilot generates several options. Review each, and select to:
 
